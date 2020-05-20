@@ -90,7 +90,7 @@ function handleClick(event) {
 function handleLike(event) {
   const toyId = event.target.parentElement.dataset.id;
   const likeCountNode = event.target.previousElementSibling;
-  const newLikeCount = parseInt(p.innerHTML) + 1;
+  const newLikeCount = parseInt(likeCountNode.innerHTML) + 1;
   //optimistic rendering of new like count
   likeCountNode.innerHTML = `${newLikeCount} Likes`;
 

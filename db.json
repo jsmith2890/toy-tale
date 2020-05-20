@@ -11,7 +11,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 9,
+      "likes": 10,
       "newLikeCount": 9
     },
     {
@@ -59,7 +59,7 @@
     {
       "name": "Forky",
       "image": "https://www.standingstills.com/pub/media/catalog/product/cache/75eed2686e01eb22cb4050b2f40ddf97/c/a/cad187-1-1.jpg",
-      "likes": 0,
+      "likes": 1,
       "id": 13
     }
   ]
